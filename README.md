@@ -5,3 +5,5 @@ A.F.P.A is a french vocational training organization.
 We are introducing ourselves to web develoment with PHP.
 
 reith, 02.16.2016
+
+test
